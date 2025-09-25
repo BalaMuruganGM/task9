@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BalaMuruganGM/task9/static/css/main.e33e8526.css",
+    "main.js": "/BalaMuruganGM/task9/static/js/main.6e0f19f3.js",
+    "index.html": "/BalaMuruganGM/task9/index.html",
+    "main.e33e8526.css.map": "/BalaMuruganGM/task9/static/css/main.e33e8526.css.map",
+    "main.6e0f19f3.js.map": "/BalaMuruganGM/task9/static/js/main.6e0f19f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e33e8526.css",
+    "static/js/main.6e0f19f3.js"
+  ]
+}
